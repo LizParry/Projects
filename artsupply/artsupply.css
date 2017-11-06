@@ -1,0 +1,45 @@
+art supply project css
+html {
+  font-family: Helvetica, sans-serif
+}
+.heading {
+  font-size: 96px;
+  text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  color: white;
+}
+.brushes {
+  background-color: DimGray;
+  color: white;
+}
+.frames {
+  background-color: Salmon;
+  color: white;
+}
+.paint {
+  background-color: SkyBlue;
+  color: white;
+}
+.first {
+  color: SkyBlue;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: right;
+}
+.second {
+  color: DimGray;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: right;
+}
+.third {
+  color: Salmon;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: right;
+}
+
+h3 {
+  color: DimGray;
+  font-weight: bold;
+}
